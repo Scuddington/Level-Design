@@ -132,6 +132,37 @@ ModelImporter:
     100248: WindowArch1
     100250: WindowArch2
     100252: WindowArch3
+    100254: BigStairs
+    100256: Cave2
+    100258: Cliff
+    100260: CliffWindows2
+    100262: CliffWindows3
+    100264: CliffWindows4
+    100266: CliffWindows5
+    100268: CliffWindows6
+    100270: CliffWindows7
+    100272: group5
+    100274: Rock1 1
+    100276: Rock10
+    100278: Rock11
+    100280: Rock12
+    100282: Rock13
+    100284: Rock15
+    100286: Rock16
+    100288: Rock17
+    100290: Rock18
+    100292: Rock19
+    100294: Rock20
+    100296: Rock21
+    100298: Rock22
+    100300: Rock23
+    100302: Rock24
+    100304: Rock25
+    100306: Rock26
+    100308: Rock27
+    100310: Stairs
+    100312: TallArch10
+    100314: TallArch9
     400000: Backups
     400002: BendStairs
     400004: BigStairs6
@@ -259,6 +290,37 @@ ModelImporter:
     400248: WindowArch1
     400250: WindowArch2
     400252: WindowArch3
+    400254: BigStairs
+    400256: Cave2
+    400258: Cliff
+    400260: CliffWindows2
+    400262: CliffWindows3
+    400264: CliffWindows4
+    400266: CliffWindows5
+    400268: CliffWindows6
+    400270: CliffWindows7
+    400272: group5
+    400274: Rock1 1
+    400276: Rock10
+    400278: Rock11
+    400280: Rock12
+    400282: Rock13
+    400284: Rock15
+    400286: Rock16
+    400288: Rock17
+    400290: Rock18
+    400292: Rock19
+    400294: Rock20
+    400296: Rock21
+    400298: Rock22
+    400300: Rock23
+    400302: Rock24
+    400304: Rock25
+    400306: Rock26
+    400308: Rock27
+    400310: Stairs
+    400312: TallArch10
+    400314: TallArch9
     2300000: BigStairs6
     2300002: BottomPillar
     2300004: BottomPillar 1
@@ -357,6 +419,35 @@ ModelImporter:
     2300190: TwoWindows8
     2300192: TwoWindows9
     2300194: WallRockup
+    2300196: BigStairs
+    2300198: Cave2
+    2300200: CliffWindows2
+    2300202: CliffWindows3
+    2300204: CliffWindows4
+    2300206: CliffWindows5
+    2300208: CliffWindows6
+    2300210: CliffWindows7
+    2300212: Rock1 1
+    2300214: Rock10
+    2300216: Rock11
+    2300218: Rock12
+    2300220: Rock13
+    2300222: Rock15
+    2300224: Rock16
+    2300226: Rock17
+    2300228: Rock18
+    2300230: Rock19
+    2300232: Rock20
+    2300234: Rock21
+    2300236: Rock22
+    2300238: Rock23
+    2300240: Rock24
+    2300242: Rock25
+    2300244: Rock26
+    2300246: Rock27
+    2300248: Stairs
+    2300250: TallArch10
+    2300252: TallArch9
     3300000: BigStairs6
     3300002: BottomPillar
     3300004: BottomPillar 1
@@ -455,6 +546,35 @@ ModelImporter:
     3300190: TwoWindows8
     3300192: TwoWindows9
     3300194: WallRockup
+    3300196: BigStairs
+    3300198: Cave2
+    3300200: CliffWindows2
+    3300202: CliffWindows3
+    3300204: CliffWindows4
+    3300206: CliffWindows5
+    3300208: CliffWindows6
+    3300210: CliffWindows7
+    3300212: Rock1 1
+    3300214: Rock10
+    3300216: Rock11
+    3300218: Rock12
+    3300220: Rock13
+    3300222: Rock15
+    3300224: Rock16
+    3300226: Rock17
+    3300228: Rock18
+    3300230: Rock19
+    3300232: Rock20
+    3300234: Rock21
+    3300236: Rock22
+    3300238: Rock23
+    3300240: Rock24
+    3300242: Rock25
+    3300244: Rock26
+    3300246: Rock27
+    3300248: Stairs
+    3300250: TallArch10
+    3300252: TallArch9
     4300000: StairsBend
     4300002: Stairs7
     4300004: BigStairs6
@@ -553,6 +673,34 @@ ModelImporter:
     4300190: CliffWindows1
     4300192: Person1
     4300194: TallArch8
+    4300196: TallArch9
+    4300198: TallArch10
+    4300200: Cave2
+    4300202: Rock15
+    4300204: Rock16
+    4300206: Rock17
+    4300208: Rock18
+    4300210: Rock10
+    4300212: Rock11
+    4300214: Rock12
+    4300216: Rock13
+    4300218: Rock19
+    4300220: Rock20
+    4300222: Rock21
+    4300224: Rock22
+    4300226: Rock23
+    4300228: Rock24
+    4300230: Rock25
+    4300232: Rock26
+    4300234: Rock27
+    4300236: Stairs
+    4300238: BigStairs
+    4300240: CliffWindows7
+    4300242: CliffWindows6
+    4300244: CliffWindows5
+    4300246: CliffWindows4
+    4300248: CliffWindows3
+    4300250: CliffWindows2
     9500000: //RootNode
   materials:
     importMaterials: 1
