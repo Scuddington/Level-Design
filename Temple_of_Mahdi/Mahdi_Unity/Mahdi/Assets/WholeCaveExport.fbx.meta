@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 604ce5963bfeebd479df269804415409
+timeCreated: 1491158762
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigStairs
+    100002: BottomPillar
+    100004: BottomPillar 1
+    100006: BottomPillar 2
+    100008: BrokenStatuePillar
+    100010: Building
+    100012: Cave2
+    100014: Cliff
+    100016: CliffWindows
+    100018: CliffWindows1
+    100020: CliffWindows2
+    100022: CliffWindows3
+    100024: CliffWindows4
+    100026: CliffWindows5
+    100028: CliffWindows6
+    100030: CliffWindows7
+    100032: Ground
+    100034: group2
+    100036: group5
+    100038: LargeArchGrp
+    100040: LargeArchGrp1
+    100042: LargeArchGrp2
+    100044: LargeArchGrp3
+    100046: LargeArchGrp4
+    100048: LargeArchGrp5
+    100050: LittleBuilding
+    100052: polySurface4
+    100054: polySurface4 1
+    100056: pPlane12
+    100058: pPlane5
+    100060: pPlane7
+    100062: pPlane8
+    100064: Rock1
+    100066: Rock1 1
+    100068: Rock10
+    100070: Rock11
+    100072: Rock12
+    100074: Rock13
+    100076: Rock15
+    100078: Rock16
+    100080: Rock17
+    100082: Rock18
+    100084: Rock19
+    100086: Rock2
+    100088: Rock20
+    100090: Rock21
+    100092: Rock22
+    100094: Rock23
+    100096: Rock24
+    100098: Rock25
+    100100: Rock26
+    100102: Rock27
+    100104: Rockslide
+    100106: SmallArch
+    100108: SmallArch10
+    100110: SmallArch3
+    100112: SmallArch4
+    100114: SmallArch5
+    100116: SmallArch6
+    100118: SmallArch7
+    100120: SmallArch8
+    100122: SmallArch9
+    100124: SmallArch9 1
+    100126: SmallInsideWall
+    100128: SmallPillar
+    100130: SmallPillar10
+    100132: SmallPillar11
+    100134: SmallPillar12
+    100136: SmallPillar13
+    100138: SmallPillar14
+    100140: SmallPillar15
+    100142: SmallPillar16
+    100144: SmallPillar17
+    100146: SmallPillar23
+    100148: SmallPillar24
+    100150: SmallPillar25
+    100152: SmallPillar26
+    100154: SmallPillar27
+    100156: SmallPillar28
+    100158: SmallPillar7
+    100160: SmallPillar8
+    100162: SmallPillar8 1
+    100164: SmallPillar8 2
+    100166: SmallPillar8 3
+    100168: SmallPillar8 4
+    100170: SmallPillar9
+    100172: SmallPillar9 1
+    100174: SmallPillar9 2
+    100176: SmallPillar9 3
+    100178: SmallPillar9 4
+    100180: Stairs
+    100182: StatueBody5
+    100184: StatuePot
+    100186: StatuePot 1
+    100188: StatuePot 2
+    100190: TallArch
+    100192: TallArch 1
+    100194: TallArch 2
+    100196: TallArch10
+    100198: TallArch2
+    100200: TallArch4
+    100202: TallArch5
+    100204: TallArch5 1
+    100206: TallArch6
+    100208: TallArch9
+    100210: TopPillar
+    100212: TopPillar 1
+    100214: TopPillar 2
+    100216: TopPillarGrp
+    100218: TopPillarGrp 1
+    100220: TopPillarGrp 2
+    100222: TwoWindows10
+    100224: TwoWindows11
+    100226: TwoWindows12
+    100228: TwoWindows13
+    100230: Wall
+    100232: //RootNode
+    100234: WholeStatuePillar
+    100236: WholeStatuePillar2
+    100238: WindowArch
+    100240: WindowArch1
+    100242: WindowArch2
+    100244: WindowArch3
+    400000: BigStairs
+    400002: BottomPillar
+    400004: BottomPillar 1
+    400006: BottomPillar 2
+    400008: BrokenStatuePillar
+    400010: Building
+    400012: Cave2
+    400014: Cliff
+    400016: CliffWindows
+    400018: CliffWindows1
+    400020: CliffWindows2
+    400022: CliffWindows3
+    400024: CliffWindows4
+    400026: CliffWindows5
+    400028: CliffWindows6
+    400030: CliffWindows7
+    400032: Ground
+    400034: group2
+    400036: group5
+    400038: LargeArchGrp
+    400040: LargeArchGrp1
+    400042: LargeArchGrp2
+    400044: LargeArchGrp3
+    400046: LargeArchGrp4
+    400048: LargeArchGrp5
+    400050: LittleBuilding
+    400052: polySurface4
+    400054: polySurface4 1
+    400056: pPlane12
+    400058: pPlane5
+    400060: pPlane7
+    400062: pPlane8
+    400064: Rock1
+    400066: Rock1 1
+    400068: Rock10
+    400070: Rock11
+    400072: Rock12
+    400074: Rock13
+    400076: Rock15
+    400078: Rock16
+    400080: Rock17
+    400082: Rock18
+    400084: Rock19
+    400086: Rock2
+    400088: Rock20
+    400090: Rock21
+    400092: Rock22
+    400094: Rock23
+    400096: Rock24
+    400098: Rock25
+    400100: Rock26
+    400102: Rock27
+    400104: Rockslide
+    400106: SmallArch
+    400108: SmallArch10
+    400110: SmallArch3
+    400112: SmallArch4
+    400114: SmallArch5
+    400116: SmallArch6
+    400118: SmallArch7
+    400120: SmallArch8
+    400122: SmallArch9
+    400124: SmallArch9 1
+    400126: SmallInsideWall
+    400128: SmallPillar
+    400130: SmallPillar10
+    400132: SmallPillar11
+    400134: SmallPillar12
+    400136: SmallPillar13
+    400138: SmallPillar14
+    400140: SmallPillar15
+    400142: SmallPillar16
+    400144: SmallPillar17
+    400146: SmallPillar23
+    400148: SmallPillar24
+    400150: SmallPillar25
+    400152: SmallPillar26
+    400154: SmallPillar27
+    400156: SmallPillar28
+    400158: SmallPillar7
+    400160: SmallPillar8
+    400162: SmallPillar8 1
+    400164: SmallPillar8 2
+    400166: SmallPillar8 3
+    400168: SmallPillar8 4
+    400170: SmallPillar9
+    400172: SmallPillar9 1
+    400174: SmallPillar9 2
+    400176: SmallPillar9 3
+    400178: SmallPillar9 4
+    400180: Stairs
+    400182: StatueBody5
+    400184: StatuePot
+    400186: StatuePot 1
+    400188: StatuePot 2
+    400190: TallArch
+    400192: TallArch 1
+    400194: TallArch 2
+    400196: TallArch10
+    400198: TallArch2
+    400200: TallArch4
+    400202: TallArch5
+    400204: TallArch5 1
+    400206: TallArch6
+    400208: TallArch9
+    400210: TopPillar
+    400212: TopPillar 1
+    400214: TopPillar 2
+    400216: TopPillarGrp
+    400218: TopPillarGrp 1
+    400220: TopPillarGrp 2
+    400222: TwoWindows10
+    400224: TwoWindows11
+    400226: TwoWindows12
+    400228: TwoWindows13
+    400230: Wall
+    400232: //RootNode
+    400234: WholeStatuePillar
+    400236: WholeStatuePillar2
+    400238: WindowArch
+    400240: WindowArch1
+    400242: WindowArch2
+    400244: WindowArch3
+    2300000: BigStairs
+    2300002: BottomPillar
+    2300004: BottomPillar 1
+    2300006: BottomPillar 2
+    2300008: Building
+    2300010: Cave2
+    2300012: CliffWindows
+    2300014: CliffWindows1
+    2300016: CliffWindows2
+    2300018: CliffWindows3
+    2300020: CliffWindows4
+    2300022: CliffWindows5
+    2300024: CliffWindows6
+    2300026: CliffWindows7
+    2300028: Ground
+    2300030: polySurface4
+    2300032: polySurface4 1
+    2300034: pPlane12
+    2300036: pPlane5
+    2300038: pPlane7
+    2300040: pPlane8
+    2300042: Rock1 1
+    2300044: Rock10
+    2300046: Rock11
+    2300048: Rock12
+    2300050: Rock13
+    2300052: Rock15
+    2300054: Rock16
+    2300056: Rock17
+    2300058: Rock18
+    2300060: Rock19
+    2300062: Rock20
+    2300064: Rock21
+    2300066: Rock22
+    2300068: Rock23
+    2300070: Rock24
+    2300072: Rock25
+    2300074: Rock26
+    2300076: Rock27
+    2300078: SmallArch
+    2300080: SmallArch10
+    2300082: SmallArch3
+    2300084: SmallArch4
+    2300086: SmallArch5
+    2300088: SmallArch6
+    2300090: SmallArch7
+    2300092: SmallArch8
+    2300094: SmallArch9
+    2300096: SmallArch9 1
+    2300098: SmallInsideWall
+    2300100: SmallPillar
+    2300102: SmallPillar10
+    2300104: SmallPillar11
+    2300106: SmallPillar12
+    2300108: SmallPillar13
+    2300110: SmallPillar14
+    2300112: SmallPillar15
+    2300114: SmallPillar16
+    2300116: SmallPillar17
+    2300118: SmallPillar23
+    2300120: SmallPillar24
+    2300122: SmallPillar25
+    2300124: SmallPillar26
+    2300126: SmallPillar27
+    2300128: SmallPillar28
+    2300130: SmallPillar7
+    2300132: SmallPillar8
+    2300134: SmallPillar8 1
+    2300136: SmallPillar8 2
+    2300138: SmallPillar8 3
+    2300140: SmallPillar8 4
+    2300142: SmallPillar9
+    2300144: SmallPillar9 1
+    2300146: SmallPillar9 2
+    2300148: SmallPillar9 3
+    2300150: SmallPillar9 4
+    2300152: Stairs
+    2300154: StatueBody5
+    2300156: StatuePot
+    2300158: StatuePot 1
+    2300160: StatuePot 2
+    2300162: TallArch
+    2300164: TallArch 1
+    2300166: TallArch 2
+    2300168: TallArch10
+    2300170: TallArch2
+    2300172: TallArch4
+    2300174: TallArch5
+    2300176: TallArch5 1
+    2300178: TallArch6
+    2300180: TallArch9
+    2300182: TopPillar
+    2300184: TopPillar 1
+    2300186: TopPillar 2
+    2300188: TwoWindows10
+    2300190: TwoWindows11
+    2300192: TwoWindows12
+    2300194: TwoWindows13
+    3300000: BigStairs
+    3300002: BottomPillar
+    3300004: BottomPillar 1
+    3300006: BottomPillar 2
+    3300008: Building
+    3300010: Cave2
+    3300012: CliffWindows
+    3300014: CliffWindows1
+    3300016: CliffWindows2
+    3300018: CliffWindows3
+    3300020: CliffWindows4
+    3300022: CliffWindows5
+    3300024: CliffWindows6
+    3300026: CliffWindows7
+    3300028: Ground
+    3300030: polySurface4
+    3300032: polySurface4 1
+    3300034: pPlane12
+    3300036: pPlane5
+    3300038: pPlane7
+    3300040: pPlane8
+    3300042: Rock1 1
+    3300044: Rock10
+    3300046: Rock11
+    3300048: Rock12
+    3300050: Rock13
+    3300052: Rock15
+    3300054: Rock16
+    3300056: Rock17
+    3300058: Rock18
+    3300060: Rock19
+    3300062: Rock20
+    3300064: Rock21
+    3300066: Rock22
+    3300068: Rock23
+    3300070: Rock24
+    3300072: Rock25
+    3300074: Rock26
+    3300076: Rock27
+    3300078: SmallArch
+    3300080: SmallArch10
+    3300082: SmallArch3
+    3300084: SmallArch4
+    3300086: SmallArch5
+    3300088: SmallArch6
+    3300090: SmallArch7
+    3300092: SmallArch8
+    3300094: SmallArch9
+    3300096: SmallArch9 1
+    3300098: SmallInsideWall
+    3300100: SmallPillar
+    3300102: SmallPillar10
+    3300104: SmallPillar11
+    3300106: SmallPillar12
+    3300108: SmallPillar13
+    3300110: SmallPillar14
+    3300112: SmallPillar15
+    3300114: SmallPillar16
+    3300116: SmallPillar17
+    3300118: SmallPillar23
+    3300120: SmallPillar24
+    3300122: SmallPillar25
+    3300124: SmallPillar26
+    3300126: SmallPillar27
+    3300128: SmallPillar28
+    3300130: SmallPillar7
+    3300132: SmallPillar8
+    3300134: SmallPillar8 1
+    3300136: SmallPillar8 2
+    3300138: SmallPillar8 3
+    3300140: SmallPillar8 4
+    3300142: SmallPillar9
+    3300144: SmallPillar9 1
+    3300146: SmallPillar9 2
+    3300148: SmallPillar9 3
+    3300150: SmallPillar9 4
+    3300152: Stairs
+    3300154: StatueBody5
+    3300156: StatuePot
+    3300158: StatuePot 1
+    3300160: StatuePot 2
+    3300162: TallArch
+    3300164: TallArch 1
+    3300166: TallArch 2
+    3300168: TallArch10
+    3300170: TallArch2
+    3300172: TallArch4
+    3300174: TallArch5
+    3300176: TallArch5 1
+    3300178: TallArch6
+    3300180: TallArch9
+    3300182: TopPillar
+    3300184: TopPillar 1
+    3300186: TopPillar 2
+    3300188: TwoWindows10
+    3300190: TwoWindows11
+    3300192: TwoWindows12
+    3300194: TwoWindows13
+    4300000: TallArch4
+    4300002: pPlane5
+    4300004: TallArch2
+    4300006: SmallPillar10
+    4300008: SmallPillar11
+    4300010: SmallArch8
+    4300012: SmallPillar8
+    4300014: TallArch
+    4300016: SmallPillar9
+    4300018: SmallArch6
+    4300020: SmallArch7
+    4300022: TwoWindows13
+    4300024: SmallPillar16
+    4300026: SmallPillar17
+    4300028: SmallArch5
+    4300030: TwoWindows12
+    4300032: SmallPillar14
+    4300034: SmallPillar15
+    4300036: SmallArch4
+    4300038: SmallPillar12
+    4300040: TwoWindows10
+    4300042: SmallPillar13
+    4300044: SmallArch3
+    4300046: SmallArch
+    4300048: SmallPillar
+    4300050: TwoWindows11
+    4300052: SmallPillar7
+    4300054: StatuePot
+    4300056: TopPillar
+    4300058: BottomPillar
+    4300060: StatueBody5
+    4300062: StatuePot
+    4300064: TopPillar
+    4300066: BottomPillar
+    4300068: polySurface4
+    4300070: SmallPillar8
+    4300072: TallArch
+    4300074: SmallPillar9
+    4300076: SmallArch9
+    4300078: SmallPillar8
+    4300080: TallArch
+    4300082: SmallPillar9
+    4300084: SmallArch9
+    4300086: SmallPillar8
+    4300088: SmallPillar9
+    4300090: SmallArch10
+    4300092: TallArch5
+    4300094: SmallPillar8
+    4300096: SmallPillar9
+    4300098: TallArch5
+    4300100: StatuePot
+    4300102: TopPillar
+    4300104: BottomPillar
+    4300106: polySurface4
+    4300108: TallArch6
+    4300110: TallArch9
+    4300112: TallArch10
+    4300114: Cave2
+    4300116: Building
+    4300118: SmallInsideWall
+    4300120: pPlane8
+    4300122: SmallPillar23
+    4300124: SmallPillar24
+    4300126: SmallPillar25
+    4300128: SmallPillar26
+    4300130: SmallPillar27
+    4300132: pPlane7
+    4300134: pPlane12
+    4300136: Rock1
+    4300138: Rock15
+    4300140: Rock16
+    4300142: Rock17
+    4300144: Rock18
+    4300146: Rock10
+    4300148: Rock11
+    4300150: Rock12
+    4300152: Rock13
+    4300154: Rock19
+    4300156: Rock20
+    4300158: Rock21
+    4300160: Rock22
+    4300162: Rock23
+    4300164: Rock24
+    4300166: Rock25
+    4300168: Rock26
+    4300170: Rock27
+    4300172: Stairs
+    4300174: BigStairs
+    4300176: Ground
+    4300178: CliffWindows7
+    4300180: CliffWindows6
+    4300182: CliffWindows5
+    4300184: CliffWindows4
+    4300186: CliffWindows3
+    4300188: CliffWindows2
+    4300190: CliffWindows1
+    4300192: CliffWindows
+    4300194: SmallPillar28
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
